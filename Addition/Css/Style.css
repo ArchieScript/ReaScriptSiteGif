@@ -1,4 +1,4 @@
-body{background-color:#272A33;}
+﻿body{background-color:#272A33;}
 body, .wrapped, h1,h2,h3,h4,li,a{
 	padding:0px;
 	margin:0px;
@@ -195,13 +195,15 @@ hr.HR_Discript {
 
 .LEFT_CONTENT_DIV{
 	border:0px solid rgb(81, 11, 138);
-	width: 19.9%;
+	width: calc(19.9% - 2%);
 	position: absolute;
 	top: 0%;
 	left: 0.1%;
 	height: 100%;
 	text-align: center;
 	overflow: auto;
+	padding-left:1%;
+	padding-right:1%;
 }
 /*------------------------------------------*/
 
@@ -281,13 +283,15 @@ hr.HR_Discript {
 
 .RIGHT_CONTENT_DIV{
 	border:0px solid rgb(11, 134, 138);
-	width: 19.7%;
+	width: calc(19.7% - 2%);
 	position: absolute;
 	top: 0%;
 	left: 80%;
 	height: 100%;
 	overflow: auto;
-	text-align: center;	
+	text-align: center;
+	padding-left:1%;
+	padding-right:1%;	
 }
 
 
@@ -577,18 +581,22 @@ hr.HR_Discript {
 
 	.LEFT_CONTENT_DIV{
 		position: static;
-		width:99.7%;
+		width: calc(99.7% - 3%);
 		height: auto;
 		border-top: 1px solid  rgb(223, 223, 223,0.1); 
 		border-bottom: 1px solid rgb(223, 223, 223,0.1);
+		padding-left:1.5%;
+	        padding-right:1.5%;
 	}
 
 
 	.RIGHT_CONTENT_DIV{
 		position: static;
-		width:99.7%;
+		width: calc(99.7% - 3%);
 		height: auto;
 		box-shadow:inset 0px 0px 20px 2px hsla(212, 33%, 9%, 0.664);
+		padding-left:1.5%;
+	        padding-right:1.5%;
 	}
 
 
