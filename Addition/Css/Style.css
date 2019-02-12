@@ -252,7 +252,7 @@ hr.HR_Discript {
 
 
 
-.VIDEO_DIV{
+.VIDEO_DIV.x16_9{
 	border:0px solid rgb(127, 11, 138);
 	position: relative;
 	top:0px;
@@ -263,7 +263,17 @@ hr.HR_Discript {
 	height: 0;
 	overflow: hidden;
 }
-
+.VIDEO_DIV.x4_3{
+	border:0px solid rgb(127, 11, 138);
+	position: relative;
+	top:0px;
+	/*padding-bottom: 56.25%;*//*16:9*/
+	padding-bottom: 75%;/*4:3*/
+	/* https://webformyself.com/zastavte-vstroennyj-kontent-rabotat-v-adaptivnom-dizajne/ */
+	/*padding-top: 30px;*/
+	height: 0;
+	overflow: hidden;
+}
 
 
 
