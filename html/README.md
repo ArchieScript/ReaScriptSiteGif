@@ -9,7 +9,7 @@ https://archiescript.github.io/ReaScriptSiteGif/html/...html
 >
 >https://archiescript.github.io/ReaScriptSiteGif/html/RenderSelIemsToSingleTrackInSingleFile.html
 >
->https://archiescript.github.io/ReaScriptSiteGif/html/ZoomTracksInTCPToFitScreenCtrl+ClickSaveRestore)Smart.html  [Gif]
+>https://archiescript.github.io/ReaScriptSiteGif/html/ZoomTracksInTCPToFitScreenCtrl+ClickSaveRestore)Smart.html Gif
 >
 >
 >
