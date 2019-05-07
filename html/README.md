@@ -11,6 +11,13 @@ https://archiescript.github.io/ReaScriptSiteGif/html/...html
 >
 >https://archiescript.github.io/ReaScriptSiteGif/html/ZoomTracksInTCPToFitScreenCtrl+ClickSaveRestore)Smart.html Gif
 >
+>https://archiescript.github.io/ReaScriptSiteGif/html/Add tracks with locked height to collapsed folders.html Gif
+>
+>
+>
+>
+>
+>
 >
 >
 >
